@@ -1,6 +1,6 @@
 # Random_Number_Game_JS
 
-Welcome to my **Random Number Game project!** This project is designed to provide a fun and interactive way to test your guessing skills, showcasing my expertise in web development. Implemented using HTML, CSS, and Java, it allows users to input a number into a search box and receive feedback through popups.
+Welcome to my **Random Number Game project!** This project is designed to provide a fun and interactive way to test your guessing skills, showcasing my expertise in web development. Implemented using HTML, CSS, and JavaScript, it allows users to input a number into a search box and receive feedback through popups.
 
 # Features
 Number Guessing: Users can input a number into a search box, which will trigger a popup indicating if the guess is correct or wrong.
